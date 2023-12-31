@@ -2,7 +2,6 @@
 
 The provided Python script checks the validity of Discord access tokens by making requests to the Discord API. It reads tokens from a file, sends requests to the Discord API to verify each token, and logs the results. Valid tokens are saved to a JSON file, and logs are recorded in a separate log file. The script provides a basic way to assess the validity of Discord tokens and manage the results.
 
-- Valid tokens will be saved to `valid_tokens.json`, and logs will be written to `token_checker.log`.
 
 ## Configuration
 
